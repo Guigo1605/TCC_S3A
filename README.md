@@ -30,3 +30,7 @@ Além do agendamento de serviços, o site oferecerá a possibilidade de compra d
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 O sistema busca melhorar a interação entre clientes e profissionais, tornando-a mais prática e eficiente, e garantindo o bem-estar dos animais com serviços de qualidade.
+
+links dos modelos do projeto
+https://www.canva.com/design/DAGX3wHH1w4/KE92BasZxT12HmIcjlH97Q/edit?utm_content=DAGX3wHH1w4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+https://www.canva.com/design/DAGLx_dOdVg/kaXcbBt31P4TfeZ4NNENgQ/edit?utm_content=DAGLx_dOdVg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
